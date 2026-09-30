@@ -1,0 +1,3 @@
+name	email	password	expectedResult
+correct user and password	customer@practicesoftwaretesting.com	welcome01	pass
+correct user and incorrect password	customer@practicesoftwaretesting.com	welcomee01	fail
