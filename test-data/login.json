@@ -1,0 +1,14 @@
+[
+    {
+        "name": "correct user and password",
+        "email": "customer@practicesoftwaretesting.com",
+        "password": "welcome01",
+        "expectedResult": "pass"
+    },
+    {
+        "name": "correct user and incorrect password",
+        "email": "customer@practicesoftwaretesting.com",
+        "password": "welcomee01",
+        "expectedResult": "fail"
+    }
+]
